@@ -9,7 +9,7 @@
 .env
 
 #public folder
-/public
+#/public
 
 # misc
 .DS_Store
